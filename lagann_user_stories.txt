@@ -1,0 +1,7 @@
+- Les ultilisateurs peuvent créer un compte personnalisé et personnalisable.
+- Les utilisateurs peuvent publier et commenter des articles.
+- Les utilisateurs peuvent répondre aux commentaires.
+- L'admin doit pouvoir modérer les articles et les commentaires.
+- Le site affiche 2 articles au hasard.
+- Les articles ont obligatoirement au moins une catégorie associée.
+- L'utilisateur peut trier et chercher des articles par catégorie.
